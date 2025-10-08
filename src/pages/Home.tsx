@@ -20,21 +20,21 @@ const schoolImages = [
 ];
 
 const teachers = [
-  { name: 'Mrs. A.SAMIA', subject: 'Director', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/samia%20dg.png?raw=true' },
-  { name: 'Mrs A.IMANE', subject: 'Secretary', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/imane%20secretary.png?raw=true' },
-  { name: 'Mrs Z.ASSIA', subject: 'English, Sport, Annimation, Painting-Colloring-Collage', grade: '3yo - 4yo - 5yo', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/Z.ASSIA.844Z.png?raw=true' },
-  { name: 'Miss A.ASSMA', subject: 'Arabic, Quran, French, Painting-Colloring-Collage', grade: '4-5 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/assma.868Z.png?raw=true' },
-  { name: 'Mrs A.BOUCHRA', subject: 'Arabic, Quran, French, Painting-Colloring-Collage', grade: '4-5 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/bouchra.168Z.png?raw=true' },
-  { name: 'Mrs A.YOUSRA', subject: 'Arabic, Quran, French, Painting-Colloring-Collage', grade: '3 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/youssra.png?raw=true' },
-  { name: 'Mrs A.HAKIMA', subject: 'Arabic, French', grade: '1-2 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/HAKIMA.968Z.png?raw=true' },
-  { name: 'Mrs A.HIND', subject: 'Babysitting & Care', grade: '3 Month - 1 Year', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/HIND.477Z.png?raw=true' },
-  { name: 'Dr. Y.NADIA', subject: 'Speech Therapist "orthophoniste"', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/speech%20Therapist.png?raw=true' },
-  { name: 'Dr. A.SAMIA', subject: 'Pediatrician "Pédiatre', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/Dr%20Pediatrician.png?raw=true' },
-  { name: 'Mrs. KARIMA', subject: 'Master Chef', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/karima%20master%20chef.420Z.png?raw=true' },
-  { name: 'Mrs. NESRINE', subject: 'Chef Assistant', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/nesrine%20chef.630Z.png?raw=true' },
-  { name: 'Mrs. NESRINE', subject: 'Hygiene', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/Generated%20Image%20October%2005,%202025%20-%201_23AM.png?raw=true' },
-  { name: 'Mrs. NOUR', subject: 'Support Staff', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/nour%20support.png?raw=true' },
-  { name: 'Mrs A.ASSIA', subject: 'Support Staff', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/assia%20support.png?raw=true' },
+  { name: 'Mrs. R.SALMA', subject: 'Director', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/samia%20dg.png?raw=true' },
+  { name: 'Mrs M.LAYLA', subject: 'Secretary', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/imane%20secretary.png?raw=true' },
+  { name: 'Mrs T.MAYA', subject: 'English, Sport, Annimation, Painting-Colloring-Collage', grade: '3yo - 4yo - 5yo', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/Z.ASSIA.844Z.png?raw=true' },
+  { name: 'Miss K.NOURA', subject: 'Arabic, Quran, French, Painting-Colloring-Collage', grade: '4-5 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/assma.868Z.png?raw=true' },
+  { name: 'Mrs A.SARAH', subject: 'Arabic, Quran, French, Painting-Colloring-Collage', grade: '4-5 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/bouchra.168Z.png?raw=true' },
+  { name: 'Mrs L.YASMIN', subject: 'Arabic, Quran, French, Painting-Colloring-Collage', grade: '3 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/youssra.png?raw=true' },
+  { name: 'Mrs N.FATIMA', subject: 'Arabic, French', grade: '1-2 Years', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/HAKIMA.968Z.png?raw=true' },
+  { name: 'Mrs J.HOORIA', subject: 'Babysitting & Care', grade: '3 Month - 1 Year', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/HIND.477Z.png?raw=true' },
+  { name: 'Dr. E.NADINE', subject: 'Speech Therapist "orthophoniste"', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/speech%20Therapist.png?raw=true' },
+  { name: 'Dr. O.ZAHRA', subject: 'Pediatrician "Pédiatre', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/Dr%20Pediatrician.png?raw=true' },
+  { name: 'Mrs. D.HANA', subject: 'Master Chef', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/karima%20master%20chef.420Z.png?raw=true' },
+  { name: 'Mrs. R.MALAK', subject: 'Chef Assistant', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/nesrine%20chef.630Z.png?raw=true' },
+  { name: 'Mrs. T.INES', subject: 'Hygiene', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/Generated%20Image%20October%2005,%202025%20-%201_23AM.png?raw=true' },
+  { name: 'Mrs. F.AMIRA', subject: 'Support Staff', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/nour%20support.png?raw=true' },
+  { name: 'Mrs C.SAFIA', subject: 'Support Staff', grade: 'All Grades', image: 'https://github.com/zedlink-dz/PICS/blob/main/Nursery/assia%20support.png?raw=true' },
 ];
 
 export default function Home() {
@@ -52,7 +52,7 @@ export default function Home() {
         </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-pulse">
-            Welcome to L'enfant Roi Nursery & Preschool
+            Welcome to My Nursery & Preschool
           </h1>
           <p className="text-xl md:text-2xl mb-8">
             Where Every Child Shines Bright! Nurturing Young Minds with Love, Care & Excellence
@@ -75,20 +75,20 @@ export default function Home() {
                 About Us
               </h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                L'enfant Roi Nursery & Preschool is a premier early childhood education center located in the heart of Algiers, Algeria. We provide a nurturing, safe, and stimulating environment where children aged 3 months to 5 years can learn, grow, and thrive.
+                My Nursery & Preschool is a premier early childhood education center located in the heart of Algiers, Algeria. We provide a nurturing, safe, and stimulating environment where children aged 3 months to 5 years can learn, grow, and thrive.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
                 Our dedicated team of experienced educators combines international best practices with local cultural values to create a unique learning experience. We follow the Montessori approach while integrating Arabic, Quran studies, English, French, sports, and creative arts into our comprehensive curriculum.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                At L'enfant Roi, we believe every child is unique and deserves personalized attention. Our low student-to-teacher ratio ensures that each child receives the care and support they need to develop confidence, creativity, and a lifelong love of learning.
+                At My Nursery & preschool, we believe every child is unique and deserves personalized attention. Our low student-to-teacher ratio ensures that each child receives the care and support they need to develop confidence, creativity, and a lifelong love of learning.
               </p>
             </div>
             <div className="rounded-xl overflow-hidden shadow-2xl">
               <iframe
                 width="100%"
                 height="400"
-                src="https://www.youtube.com/embed/adYBXFv9Tfo"
+                src="https://www.youtube.com/embed/oOPKlWi5mrA" 
                 allowFullScreen
                 className="w-full"
               ></iframe>
@@ -121,7 +121,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="bg-gradient-to-r from-purple-600 to-pink-600 rounded-xl shadow-2xl p-8 text-center text-white mb-12">
+          {/*<div className="bg-gradient-to-r from-purple-600 to-pink-600 rounded-xl shadow-2xl p-8 text-center text-white mb-12">
             <Award className="w-20 h-20 mx-auto mb-4 animate-bounce-gentle" />
             <h3 className="text-3xl font-bold mb-4">
               N°1 Nursery & Preschool in Algiers and Algeria
@@ -141,7 +141,7 @@ export default function Home() {
               allowFullScreen
               className="w-full"
             ></iframe>
-          </div>
+          </div> */}
         </div>
       </section>
 
@@ -189,21 +189,21 @@ export default function Home() {
                     <Phone className="w-6 h-6 text-pink-500 mr-4" />
                     <div>
                       <p className="font-semibold">Phone</p>
-                      <p className="text-gray-700">+213 549 75 82 81</p>
+                      <p className="text-gray-700">+213 770 63 77 64</p>
                     </div>
                   </div>
                   <div className="flex items-center">
                     <Mail className="w-6 h-6 text-blue-500 mr-4" />
                     <div>
                       <p className="font-semibold">Email</p>
-                      <p className="text-gray-700">info@l'enfantroi.com</p>
+                      <p className="text-gray-700">info@myschool.com</p>
                     </div>
                   </div>
                   <div className="flex items-center">
                     <MapPin className="w-6 h-6 text-green-500 mr-4" />
                     <div>
                       <p className="font-semibold">Address</p>
-                      <p className="text-gray-700">Street Kerkache Fatma Tamaris, El Mohammadia, Algiers, Algeria</p>
+                      <p className="text-gray-700">Stret Of Algeire, Algeria</p>
                     </div>
                   </div>
                 </div>
@@ -211,7 +211,7 @@ export default function Home() {
 
               <div className="bg-white rounded-xl shadow-xl overflow-hidden h-64">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d185.3538605714969!2d3.1737157315270164!3d36.73669535856219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128e52012598a2d3%3A0x923c9ed8fc518d0b!2sNursery%20School%20Les%20Graines%20D&#39;%C3%A9veil!5e1!3m2!1sen!2sdz!4v1759597190842!5m2!1sen!2sdz"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2635.486839128284!2d3.136022951340204!3d36.73318744609347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128e527ddd9ec26d%3A0xb13a579be89a8406!2sGreat%20Mosque%20of%20Algeria!5e1!3m2!1sen!2sdz!4v1759961615926!5m2!1sen!2sdz"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
