@@ -88,7 +88,7 @@ export default function Home() {
               <iframe
                 width="100%"
                 height="400"
-                src="https://www.youtube.com/embed/adYBXFv9Tfo" 
+                src="https://www.youtube.com/embed/ftz6ysZEsEI" 
                 allowFullScreen
                 className="w-full"
               ></iframe>
