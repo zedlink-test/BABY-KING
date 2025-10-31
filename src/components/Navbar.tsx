@@ -33,11 +33,11 @@ export default function Navbar() {
 >
   {/* Replace the Baby icon with your logo */}
   <img
-    src="/logo.svg"
+    src="/logo.png"
     alt="My Nursery "
-    className="w-10 h-10 object-contain rounded-full animate-bounce"
+    className="w-16 h-13 object-contain rounded-full animate-bounce"
   />
-  <span className="text-3xl font-bold">My Nursery</span>
+  <span className="text-3xl font-bold">L'ENFANT ROI</span>
 </div>
 
 

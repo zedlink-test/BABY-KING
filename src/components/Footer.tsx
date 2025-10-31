@@ -22,7 +22,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4">My Nursery</h3>
+            <h3 className="text-2xl font-bold mb-4">L'ENFANT ROI</h3>
             <p className="text-white/90">
               Nurturing young minds with love, care, and quality education.
             </p>
@@ -78,7 +78,7 @@ export default function Footer() {
             <h4 className="text-xl font-semibold mb-4">Follow Us</h4>
             <div className="flex space-x-4">
               <a
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/people/Lenfant-Roi/61550908442899"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/20 hover:bg-white/30 p-3 rounded-full transition-all duration-300 hover:scale-110"
@@ -86,7 +86,7 @@ export default function Footer() {
                 <Facebook className="w-6 h-6" />
               </a>
               <a
-                href="https://www.instagram.com"
+                href="https://www.instagram.com/roi_lenfant/?igsh=ZmpyaX3MHdpend5#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/20 hover:bg-white/30 p-3 rounded-full transition-all duration-300 hover:scale-110"
@@ -94,7 +94,7 @@ export default function Footer() {
                 <Instagram className="w-6 h-6" />
               </a>
               <a
-                href="https://tiktok.com"
+                href="https://www.tiktok.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/20 hover:bg-white/30 p-3 rounded-full transition-all duration-300 hover:scale-110"
@@ -102,7 +102,7 @@ export default function Footer() {
                 <Music className="w-6 h-6" />
               </a>
               <a
-                href="https://wa.me/"
+                href="https://wa.me/+213549758281"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/20 hover:bg-white/30 p-3 rounded-full transition-all duration-300 hover:scale-110"
@@ -115,7 +115,7 @@ export default function Footer() {
 
         <div className="border-t border-white/20 mt-8 pt-8 text-center">
           <p className="text-white/80">
-            © 2025 My Nursery & Preschool. All rights reserved. | Created By <a href="https://zedlink.netlify.app/"> | <span className="font-bold text-x0.6">ZED-LINK Solution.</span></a>
+            © 2025 L'ENFANT ROI & Preschool. All rights reserved. | Created By <a href="https://zedlink.netlify.app/"> | <span className="font-bold text-x0.6">ZED-LINK Solution.</span></a>
           </p>
         </div>
       </div>
