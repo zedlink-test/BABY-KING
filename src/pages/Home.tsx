@@ -52,7 +52,7 @@ export default function Home() {
         </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-pulse">
-            Welcome to L'ENFANT ROI & Preschool
+            Welcome to L'ENFANT ROI Kindergarten & Preschool
           </h1>
           <p className="text-xl md:text-2xl mb-8">
             Where Every Child Shines Bright! Nurturing Young Minds with Love, Care & Excellence
